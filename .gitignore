@@ -1,0 +1,4 @@
+media
+.venv
+.tool-versions
+__pycache__
